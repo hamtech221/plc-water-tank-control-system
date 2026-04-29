@@ -58,7 +58,7 @@ Push buttons are used to simulate water level sensors (Low Level & High Level), 
 ---
 
 ## 🎥 Demonstration  
-*(Attach your demo video here)*  
+[▶ Watch Demo](https://github.com/user-attachments/assets/ba02ff5a-fb40-43ce-9a51-ba4aed578f77)
 
 ---
 
